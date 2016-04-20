@@ -1,0 +1,17 @@
+.skills-icons {
+	font-size: 100px;
+	padding: 30px;
+}
+
+.skills-icons > i {
+	float: left;
+	display: block;
+	padding: 10px;
+	color: #dddddd;
+}
+
+.group:after {
+	content: "";
+	display: block;
+	clear: both;
+}
